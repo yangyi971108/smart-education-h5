@@ -1,0 +1,44 @@
+.wrapper{
+    display: flex;
+    width: 100vw;
+    height: 90vh;
+    overflow-y: auto;
+}
+
+.line1{
+    flex: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.line2{
+    flex: auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.line3{
+    flex: auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.icon-font{
+    font-size: 12vw;
+    padding: 9vw;
+    padding-bottom: 8vw;
+}
+
+.courseWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.courseTitle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
